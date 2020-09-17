@@ -1,0 +1,9 @@
+.main{
+    margin-top: 200px;
+}
+
+.contentPaginationBlock{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
